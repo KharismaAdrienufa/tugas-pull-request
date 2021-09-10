@@ -1,2 +1,1 @@
-# tugas-pull-request
-tugas melakukan pull request dengan menambahkan nama dan nim pada file tugas.txt
+Salsa Zannuba Arifah Khabsoh 202410103037
